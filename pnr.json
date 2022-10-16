@@ -60,7 +60,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C2_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -97,7 +97,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C2_SLICE1",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -134,7 +134,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C3_SLICE5",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -171,7 +171,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C4_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -208,7 +208,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C4_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -245,7 +245,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C5_SLICE1",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -282,7 +282,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C5_SLICE5",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -319,7 +319,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C2_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -356,7 +356,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C5_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -393,7 +393,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C5_SLICE1",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -430,7 +430,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C5_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -467,7 +467,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C2_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -504,7 +504,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C3_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -541,7 +541,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C2_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -578,7 +578,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R22C6_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -615,7 +615,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C3_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -652,7 +652,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C3_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -689,7 +689,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C3_SLICE1",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -726,7 +726,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R22C6_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -763,7 +763,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R22C6_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -800,7 +800,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C4_SLICE0",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -837,7 +837,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C4_SLICE2",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -874,7 +874,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R23C4_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -911,7 +911,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C4_SLICE3",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -948,7 +948,7 @@
             "BEL_STRENGTH": "00000000000000000000000000000001",
             "NEXTPNR_BEL": "R21C3_SLICE4",
             "module_not_derived": "00000000000000000000000000000001",
-            "src": "blinky.v:10.1-11.17|/opt/homebrew/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
+            "src": "blinky.v:10.1-11.17|/usr/local/bin/../share/yosys/gowin/cells_map.v:13.6-13.47"
           },
           "port_directions": {
             "LSR": "input",
@@ -2171,7 +2171,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2181,7 +2181,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2223,7 +2223,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2249,7 +2249,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2275,7 +2275,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2301,7 +2301,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2359,7 +2359,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2385,7 +2385,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2411,7 +2411,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2437,7 +2437,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2463,7 +2463,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2489,7 +2489,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2515,7 +2515,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2541,7 +2541,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2567,7 +2567,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2593,7 +2593,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2619,7 +2619,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2629,7 +2629,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2655,7 +2655,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2681,7 +2681,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2707,7 +2707,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2717,7 +2717,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2743,7 +2743,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2783,7 +2783,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },
@@ -2793,7 +2793,7 @@
           "attributes": {
             "ROUTING": " ",
             "unused_bits": "25",
-            "src": "blinky.v:14.16-14.28|/opt/homebrew/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
+            "src": "blinky.v:14.16-14.28|/usr/local/bin/../share/yosys/gowin/arith_map.v:52.24-52.25",
             "force_downto": "00000000000000000000000000000001"
           }
         },

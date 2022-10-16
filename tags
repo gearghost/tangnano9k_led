@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+clk	blinky.v	/^	input clk,$/;"	p
+counter	led.v	/^reg [23:0] counter;$/;"	r
+ctr_d	blinky.v	/^wire [25:0] ctr_d;$/;"	n
+ctr_q	blinky.v	/^reg [25:0] ctr_q;$/;"	r
+input	led.v	/^    input sys_rst_n,$/;"	p
+led	led.v	/^module led($/;"	m
+output	blinky.v	/^	output [5:0] led$/;"	p
+reg	led.v	/^    output reg [5:0] led$/;"	p
+sys_clk	led.v	/^    input sys_clk,$/;"	p
+top	blinky.v	/^module top ($/;"	m
